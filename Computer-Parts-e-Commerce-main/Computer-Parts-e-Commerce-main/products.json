@@ -1,0 +1,156 @@
+[
+  {
+    "id": 1,
+    "name": "High-Performance CPU",
+    "price": 250,
+    "image": "assets/products/part1.jpeg",
+    "alt": "CPU"
+  },
+  {
+    "id": 2,
+    "name": "Gaming GPU",
+    "price": 400,
+    "image": "assets/products/part2.jpeg",
+    "alt": "GPU"
+  },
+  {
+    "id": 3,
+    "name": "16GB RAM",
+    "price": 120,
+    "image": "assets/products/part3.jpeg",
+    "alt": "RAM"
+  },
+  {
+    "id": 4,
+    "name": "1TB SSD",
+    "price": 150,
+    "image": "assets/products/part4.jpg",
+    "alt": "SSD"
+  },
+  {
+    "id": 5,
+    "name": "Gaming Motherboard",
+    "price": 200,
+    "image": "assets/products/part5.png",
+    "alt": "Motherboard"
+  },
+  {
+    "id": 6,
+    "name": "650W Power Supply",
+    "price": 80,
+    "image": "assets/products/part6.jpg",
+    "alt": "Power Supply"
+  },
+  {
+    "id": 7,
+    "name": "RGB CPU Cooler",
+    "price": 60,
+    "image": "assets/products/part7.jpg",
+    "alt": "CPU Cooler"
+  },
+  {
+    "id": 8,
+    "name": "Mechanical Keyboard",
+    "price": 90,
+    "image": "assets/products/part8.jpg",
+    "alt": "Keyboard"
+  },
+  {
+    "id": 9,
+    "name": "Gaming Mouse",
+    "price": 40,
+    "image": "assets/products/part9.jpg",
+    "alt": "Mouse"
+  },
+  {
+    "id": 10,
+    "name": "Gaming Monitor",
+    "price": 200,
+    "image": "assets/products/part10.jpg",
+    "alt": "Monitor"
+  },
+  {
+    "id": 11,
+    "name": "CPU",
+    "price": 200,
+    "image": "assets/products/part1.jpeg",
+    "alt": "CPU"
+  },
+  {
+    "id": 12,
+    "name": "GPU",
+    "price": 450,
+    "image": "assets/products/part2.jpeg",
+    "alt": "GPU"
+  },
+  {
+    "id": 13,
+    "name": "Wi-Fi Adapter",
+    "price": 30,
+    "image": "assets/products/part11.jpg",
+    "alt": "Wi-Fi Adapter"
+  },
+  {
+    "id": 14,
+    "name": "External Hard Drive",
+    "price": 100,
+    "image": "assets/products/part12.jpeg",
+    "alt": "External Hard Drive"
+  },
+  {
+    "id": 15,
+    "name": "USB Hub",
+    "price": 25,
+    "image": "assets/products/part13.jpg",
+    "alt": "USB Hub"
+  },
+  {
+    "id": 16,
+    "name": "PC Case",
+    "price": 80,
+    "image": "assets/products/part14.jpeg",
+    "alt": "PC Case"
+  },
+  {
+    "id": 17,
+    "name": "Thermal Paste",
+    "price": 10,
+    "image": "assets/products/part15.jpg",
+    "alt": "Thermal Paste"
+  },
+  {
+    "id": 18,
+    "name": "Sound Card",
+    "price": 50,
+    "image": "assets/products/part16.png",
+    "alt": "Sound Card"
+  },
+  {
+    "id": 19,
+    "name": "Gaming Controller",
+    "price": 60,
+    "image": "assets/products/part17.jpg",
+    "alt": "Gaming Controller"
+  },
+  {
+    "id": 20,
+    "name": "Gaming Headset",
+    "price": 70,
+    "image": "assets/products/part18.png",
+    "alt": "Gaming Headset"
+  },
+  {
+    "id": 21,
+    "name": "Webcam",
+    "price": 40,
+    "image": "assets/products/part19.jpg",
+    "alt": "Webcam"
+  },
+  {
+    "id": 22,
+    "name": "Bluetooth Adapter",
+    "price": 20,
+    "image": "assets/products/part20.jpeg",
+    "alt": "Bluetooth Adapter"
+  }
+]
